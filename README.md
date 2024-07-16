@@ -2,6 +2,7 @@
 
 <!--
 **Ch3mson/Ch3mson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Ch3mson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch3mson)](https://github.com/Ch3mson/github-readme-stats)
 
 Here are some ideas to get you started:
 
