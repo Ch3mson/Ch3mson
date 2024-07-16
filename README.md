@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benson Yan</h1>
 <h3 align="center">A Computer Science student from The University of Waterloo</h3>
 
-- 📫 Reach out via email: bensonyan778@hotmail.com or b58yan@uwaterloo.ca
+📫 Reach out via email: bensonyan778@hotmail.com or b58yan@uwaterloo.ca
 
 <h3 align="left">🤳 Socials:</h3>
 <p align="left">
