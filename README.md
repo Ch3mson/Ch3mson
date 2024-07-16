@@ -5,10 +5,11 @@
 
 <h3 align="left">🤳 Socials:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/benson-yan-622413201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaeeungracelee" height="30" width="40" /></a>
-<a href="https://www.instagram.com/1800_benson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gracelee05_" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/chemson2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaeeungracelee" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/chemson" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaeeungracelee" height="30" width="40" /></a>
+<a href="https://www.instagram.com/1800_benson/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="1800_benson" height="40" width="40" /></a>
+<a href="https://x.com/ch3mson" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=ZNMifeqJbPRv&format=png&color=000000" alt="ch3mson" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/benson-yan-622413201/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="bensonyan" height="40" width="40" /></a>
+<a href="https://leetcode.com/u/chemson2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ch3mson" height="40" width="40" /></a>
+<a href="https://www.kaggle.com/chemson" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ch3mson" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">🥮 Languages:</h3>
