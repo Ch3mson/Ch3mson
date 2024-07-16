@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, i'm Benson Yan</h1>
+<h1 align="center">Hi 👋, I'm Benson Yan</h1>
 <h3 align="center">A Computer Science student from The University of Waterloo</h3>
 
 - 📫 how to reach me: **bensonyan778@hotmail.com**
