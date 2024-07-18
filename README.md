@@ -39,6 +39,5 @@
 <a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 </div>
 
-![Benson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch3mson&show_icons=true&theme=dracula)
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch3mson&layout=compact&theme=dracula&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ch3mson&theme=dracula" /></a>
+<a href="https://github.com/anuraghazra/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ch3mson&layout=compact&langs_count=8&card_width=320&theme=dracula" /></a>
