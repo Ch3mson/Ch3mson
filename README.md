@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Benson Yan</h1>
-<h3 align="center">A Computer Science student from The University of Waterloo</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="45" height="45" />, I'm Benson Yan</h1>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="35" height="35" />A Computer Science student from The University of Waterloo<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="45" height="45" /></h3>
 
-📫 Reach out via email: bensonyan778@hotmail.com or b58yan@uwaterloo.ca
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Light%20Skin%20Tone.png" alt="Call Me Hand Light Skin Tone" width="45" height="45" /> Reach out via email: bensonyan778@hotmail.com or b58yan@uwaterloo.ca
 
-<h3 align="left">🤳 Socials:</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="45" height="45" /> Socials:</h3>
 <p align="left">
 <a href="https://www.instagram.com/1800_benson/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="1800_benson" height="40" width="40" /></a>
 <a href="https://x.com/ch3mson" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=ZNMifeqJbPRv&format=png&color=000000" alt="ch3mson" height="40" width="40" /></a>
@@ -12,7 +12,7 @@
 <a href="https://www.kaggle.com/chemson" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ch3mson" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">🥮 Languages:</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mouth.png" alt="Mouth" width="45" height="45" /> Languages:</h3>
 
 <p align="left"> 
   
@@ -25,7 +25,7 @@
 
 </p>
 
-<h3 align="left">🛠️ Frameworks and Tools:</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Palm%20Up%20Hand%20Light%20Skin%20Tone.png" alt="Palm Up Hand Light Skin Tone" width="45" height="45" /> Frameworks and Tools:</h3>
 
 <div align="left"> 
 <a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
