@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="45" height="45" />, I'm Benson Yan</h1>
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="35" height="35" />A Computer Science student from The University of Waterloo<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="45" height="45" /></h3>
+<h3 align="center">A Computer Science student from The University of Waterlo who has solo developed apps to 70k+ users!</h3>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Light%20Skin%20Tone.png" alt="Call Me Hand Light Skin Tone" width="45" height="45" /> Reach out via email: bensonyan778@hotmail.com or b58yan@uwaterloo.ca
 
@@ -9,7 +9,6 @@
 <a href="https://x.com/ch3mson" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=ZNMifeqJbPRv&format=png&color=000000" alt="ch3mson" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/benson-yan-622413201/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="bensonyan" height="40" width="40" /></a>
 <a href="https://leetcode.com/u/Chemson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ch3mson" height="40" width="40" /></a>
-<a href="https://www.kaggle.com/chemson" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ch3mson" height="40" width="40" /></a>
 </p>
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mouth.png" alt="Mouth" width="45" height="45" /> Languages:</h3>
