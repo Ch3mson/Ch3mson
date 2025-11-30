@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="45" height="45" />, I'm Benson Yan</h1>
 <h3 align="center">Currently a Computer Science student from The University of Waterlo who has solo developed bootstrapped to 70k+ users!</h3>
 
-Reach out via email: bensonyan778@hotmail.com or b58yan@uwaterloo.ca to learn more about me!
+<p>I have done too much frontend. Looking for backend, infra, MLOps, and math-heavy technically challenging roles.</p>
+<p>Reach out via email: bensonyan778@hotmail.com or b58yan@uwaterloo.ca to learn more about me!</p>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
