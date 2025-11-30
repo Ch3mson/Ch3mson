@@ -52,3 +52,5 @@ I have done too much frontend. I am now only looking for backend, infra, MLOps, 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40" height="40"/></a>
 </p>
+
+<p>+ Much more but this is my primary tech stack to build something from 0 to 1</p>
