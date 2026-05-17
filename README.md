@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-Worked at medium and pre-seed sized startups. Also solo engineered a bootstrapped app to 70k+ users.
+Worked at medium and pre-seed sized startups. Also solo engineered a bootstrapped app to 120,000+ users ($50k MRR).
 </p>
 
 <p align="center">
