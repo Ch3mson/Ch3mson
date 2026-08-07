@@ -4,11 +4,7 @@
 <br>
 
 <p align="center">
-Worked at medium and pre-seed sized startups. Also solo engineered a bootstrapped app to 120,000+ users ($50k MRR).
-</p>
-
-<p align="center">
-I have done too much frontend. I am now only looking for backend, infra, MLOps, and technically challenging math-heavy roles.
+Worked at pre-seed/medium sized startups. Solo built topclip.ai to 100,000+ users, betterwrite.ai to 2,000+ users, and antigpt.me to 1,000+ users.
 </p>
 
 <br>
