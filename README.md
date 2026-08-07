@@ -10,7 +10,7 @@ Worked at pre-seed/medium sized startups. Solo built topclip.ai to 100,000+ user
 <br>
 
 <p align="center">
-<strong>Contact:</strong> <a href="https://www.linkedin.com/in/benson-yan-622413201/">LinkedIn</a> | <a href="mailto:bensonyan778@hotmail.com">bensonyan778@hotmail.com</a> | <a href="mailto:b58yan@uwaterloo.ca">b58yan@uwaterloo.ca</a>
+<strong>Contact:</strong> <a href="https://www.linkedin.com/in/benson-yan-622413201/">LinkedIn</a> | <a href="mailto:b58yan@uwaterloo.ca">b58yan@uwaterloo.ca</a>
 </p>
 
 ---
